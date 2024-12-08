@@ -15,9 +15,7 @@ Welcome to my portfolio! I'm an economist and data enthusiast with experience in
 - Python (learning in progress)
 
 ## Connect with Me
-
-- [LinkedIn]([www.linkedin.com/in/pedrohlemos])  
-
+- [LinkedIn]([www.linkedin.com/in/pedrohlemos])
 - [GitHub]([https://github.com/Phmlemos]) 
 <!---
 Phmlemos/Phmlemos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
