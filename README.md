@@ -4,7 +4,7 @@ Welcome to my portfolio! I'm an economist and data enthusiast with experience in
 ## About Me
 - 🎓 Final-year Economics student at UNIP.
 - 🧠 Passionate about data storytelling and impactful analysis.
-- ⚡ Fun fact: A League of Legends and sports strategist in my free time, applying tactical thinking to data challenges.
+- ⚡ Fun fact: Finance, philosophy and economics learner in my free time. Applying tactical thinking to data challenges.
 
 ## Projects
 - 
